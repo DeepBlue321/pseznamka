@@ -1,0 +1,244 @@
+{
+  "dogs": [
+    {
+      "name": "Buddy",
+      "breed": "Golden Retriever",
+      "age": 3,
+      "location": "New York, NY"
+    },
+    {
+      "name": "Max",
+      "breed": "German Shepherd",
+      "age": 5,
+      "location": "Los Angeles, CA"
+    },
+    {
+      "name": "Bella",
+      "breed": "Labrador Retriever",
+      "age": 2,
+      "location": "Chicago, IL"
+    },
+    {
+      "name": "Charlie",
+      "breed": "Bulldog",
+      "age": 4,
+      "location": "Houston, TX"
+    },
+    {
+      "name": "Lucy",
+      "breed": "Poodle",
+      "age": 6,
+      "location": "Phoenix, AZ"
+    },
+    {
+      "name": "Cooper",
+      "breed": "Beagle",
+      "age": 1,
+      "location": "Philadelphia, PA"
+    },
+    {
+      "name": "Luna",
+      "breed": "Siberian Husky",
+      "age": 2,
+      "location": "San Antonio, TX"
+    },
+    {
+      "name": "Rocky",
+      "breed": "Boxer",
+      "age": 4,
+      "location": "San Diego, CA"
+    },
+    {
+      "name": "Milo",
+      "breed": "Dachshund",
+      "age": 3,
+      "location": "Dallas, TX"
+    },
+    {
+      "name": "Daisy",
+      "breed": "Shih Tzu",
+      "age": 5,
+      "location": "San Jose, CA"
+    },
+    {
+      "name": "Bear",
+      "breed": "Great Dane",
+      "age": 2,
+      "location": "Austin, TX"
+    },
+    {
+      "name": "Sadie",
+      "breed": "Pug",
+      "age": 7,
+      "location": "Jacksonville, FL"
+    },
+    {
+      "name": "Tucker",
+      "breed": "Golden Retriever",
+      "age": 4,
+      "location": "Fort Worth, TX"
+    },
+    {
+      "name": "Molly",
+      "breed": "German Shepherd",
+      "age": 1,
+      "location": "Columbus, OH"
+    },
+    {
+      "name": "Duke",
+      "breed": "Labrador Retriever",
+      "age": 3,
+      "location": "Charlotte, NC"
+    },
+    {
+      "name": "Zoe",
+      "breed": "Bulldog",
+      "age": 2,
+      "location": "San Francisco, CA"
+    },
+    {
+      "name": "Jack",
+      "breed": "Poodle",
+      "age": 5,
+      "location": "Indianapolis, IN"
+    },
+    {
+      "name": "Lola",
+      "breed": "Beagle",
+      "age": 3,
+      "location": "Seattle, WA"
+    },
+    {
+      "name": "Oscar",
+      "breed": "Siberian Husky",
+      "age": 4,
+      "location": "Denver, CO"
+    },
+    {
+      "name": "Ruby",
+      "breed": "Boxer",
+      "age": 2,
+      "location": "Washington, DC"
+    },
+    {
+      "name": "Teddy",
+      "breed": "Dachshund",
+      "age": 1,
+      "location": "Boston, MA"
+    },
+    {
+      "name": "Stella",
+      "breed": "Shih Tzu",
+      "age": 3,
+      "location": "El Paso, TX"
+    },
+    {
+      "name": "Winston",
+      "breed": "Great Dane",
+      "age": 2,
+      "location": "Detroit, MI"
+    },
+    {
+      "name": "Penny",
+      "breed": "Pug",
+      "age": 4,
+      "location": "Nashville, TN"
+    },
+    {
+      "name": "Zeus",
+      "breed": "Golden Retriever",
+      "age": 5,
+      "location": "Portland, OR"
+    },
+    {
+      "name": "Roxy",
+      "breed": "German Shepherd",
+      "age": 3,
+      "location": "Memphis, TN"
+    },
+    {
+      "name": "Harley",
+      "breed": "Labrador Retriever",
+      "age": 6,
+      "location": "Oklahoma City, OK"
+    },
+    {
+      "name": "Gizmo",
+      "breed": "Bulldog",
+      "age": 2,
+      "location": "Las Vegas, NV"
+    },
+    {
+      "name": "Rosie",
+      "breed": "Poodle",
+      "age": 1,
+      "location": "Louisville, KY"
+    },
+    {
+      "name": "Murphy",
+      "breed": "Beagle",
+      "age": 4,
+      "location": "Baltimore, MD"
+    },
+    {
+      "name": "Piper",
+      "breed": "Siberian Husky",
+      "age": 3,
+      "location": "Milwaukee, WI"
+    },
+    {
+      "name": "Sam",
+      "breed": "Boxer",
+      "age": 5,
+      "location": "Albuquerque, NM"
+    },
+    {
+      "name": "Coco",
+      "breed": "Dachshund",
+      "age": 2,
+      "location": "Tucson, AZ"
+    },
+    {
+      "name": "Oliver",
+      "breed": "Shih Tzu",
+      "age": 4,
+      "location": "Fresno, CA"
+    },
+    {
+      "name": "Lily",
+      "breed": "Great Dane",
+      "age": 3,
+      "location": "Sacramento, CA"
+    },
+    {
+      "name": "Rusty",
+      "breed": "Pug",
+      "age": 6,
+      "location": "Kansas City, MO"
+    },
+    {
+      "name": "Chloe",
+      "breed": "Golden Retriever",
+      "age": 2,
+      "location": "Atlanta, GA"
+    },
+    {
+      "name": "Bruno",
+      "breed": "German Shepherd",
+      "age": 5,
+      "location": "Miami, FL"
+    },
+    {
+      "name": "Maggie",
+      "breed": "Labrador Retriever",
+      "age": 4,
+      "location": "Raleigh, NC"
+    },
+    {
+      "name": "Jax",
+      "breed": "Bulldog",
+      "age": 3,
+      "location": "Omaha, NE"
+    }
+  ]
+}
