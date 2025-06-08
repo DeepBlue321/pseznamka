@@ -11,9 +11,9 @@ interface Dog {
 export default async function SearchPage({
   params,
 }: Readonly<{
-  params: { breed: string };
+  params: Promise<{ breed: string }>;
 }>) {
-  const decodedBreed = decodeURIComponent(params.breed);
+  const decodedBreed = decodeURIComponent((await params).breed);
   // Filter dogs by breed
   const filteredDogs = testdata.dogs.filter((dog: Dog) => 
     decodedBreed === "all" || dog.breed.toLowerCase() === decodedBreed.toLowerCase()

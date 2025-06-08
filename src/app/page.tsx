@@ -58,7 +58,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-700">
-                "Found the perfect breeder for my new puppy! The platform made it easy to connect and verify information."
+                Found the perfect breeder for my new puppy! The platform made it easy to connect and verify information.
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md">
@@ -72,7 +72,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-700">
-                "Great selection of pets with detailed profiles. The review system helped me make an informed decision."
+                Great selection of pets with detailed profiles. The review system helped me make an informed decision.
               </p>
             </div>
             <div className="bg-white p-6 rounded-lg shadow-md">
@@ -86,7 +86,7 @@ export default function Home() {
                 </div>
               </div>
               <p className="text-gray-700">
-                "The platform is well organized and the search functionality is excellent. Found exactly what I was looking for!"
+                The platform is well organized and the search functionality is excellent. Found exactly what I was looking for!
               </p>
             </div>
           </div>

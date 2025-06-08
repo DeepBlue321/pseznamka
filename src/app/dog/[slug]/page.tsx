@@ -4,13 +4,13 @@ import testdata from "../../../../public/test-data.json";
 export default async function DogDetailPage({
   params,
 }: Readonly<{
-  params: { slug: string };
+  params: Promise<{ slug: string }>;
 }>) {
-  const { slug } = params;
+  const { slug } = await params;
   const decodedSlug = decodeURIComponent(slug);
 
   // Find the dog in the test data
-  const dog = testdata.dogs.find((d: any) => 
+  const dog = testdata.dogs.find((d: {name: string}) => 
     d.name.toLowerCase().replace(/\s+/g, '-') === decodedSlug.toLowerCase()
   );
 
@@ -18,7 +18,7 @@ export default async function DogDetailPage({
     return (
       <div className="container mx-auto px-4 py-12">
         <h1 className="text-3xl font-bold mb-8">Dog not found</h1>
-        <p className="text-gray-600">Sorry, we couldn't find the dog you were looking for.</p>
+        <p className="text-gray-600">Sorry, we couldnt find the dog you were looking for.</p>
       </div>
     );
   }
