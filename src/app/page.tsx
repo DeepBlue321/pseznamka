@@ -101,7 +101,7 @@ export default function Home() {
               Ready to Find Your Perfect Pet?
             </h2>
             <p className="text-xl mb-8">
-              Start your search today and connect with trusted breeders
+              Start your search today and connect with trusted clients
             </p>
             <button className="bg-white text-blue-600 px-8 py-3 rounded-lg hover:bg-gray-100 transition duration-200">
               Get Started
